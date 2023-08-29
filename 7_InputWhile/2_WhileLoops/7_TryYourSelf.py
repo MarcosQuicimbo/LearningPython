@@ -23,3 +23,5 @@ while True:
         else:
             print(respond, "years, so, your ticket cost: $15.00")
 
+
+print("\n 7.6 Three exits")
