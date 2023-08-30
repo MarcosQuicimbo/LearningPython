@@ -18,5 +18,5 @@ def describe_city (city_name, country_name = 'Norway'):
     print(city_name, "is in", country_name)
 describe_city("Quito", "Ecuador")
 describe_city("Oslo")
-describe_city("Edimburgo", "Escocia")
+describe_city("Edimburgo,", "Escocia")
     
