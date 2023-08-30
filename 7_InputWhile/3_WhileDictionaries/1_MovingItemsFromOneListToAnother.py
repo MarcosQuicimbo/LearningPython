@@ -13,7 +13,7 @@ confirmed_users = []
 # Move each verified user into the list of confirmed users. 
 
 while unconfirmed_users: #recorro la lista de usuarios 
-    current_user = unconfirmed_users.pop() #extraer el primero 
+    current_user = unconfirmed_users.pop() #extraer el de arriba de la pila  
     print("Verifying user: ", current_user.title(), "...")
     confirmed_users.append(current_user) # ese usuario extraido agrego a lista de verificados
 
