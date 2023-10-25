@@ -1,0 +1,4 @@
+In Python you can learng to code because it sintaxis is near as the human 
+In Python you can make loops
+In Python you can make plots 
+In python you can make IA applications 
